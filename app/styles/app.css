@@ -1,0 +1,212 @@
+/* app/style/app.css */
+.chart-canvas{
+  background-color: aliceblue;
+}
+.heading {
+  margin-left: 550px;
+}
+.body{
+background-color: black;
+}
+.div {
+  color:black;
+  display: flex;
+}
+.sun {
+  margin-left: 170px;
+}
+.mon {
+  margin-left: 130px;
+}
+.tue {
+  margin-left: 120px;
+}
+.wed {
+  margin-left: 110px;
+}
+.thr {
+  margin-left: 110px;
+}
+.fri {
+  margin-left: 130px;
+}
+.sat {
+  margin-left: 120px;
+}
+/* main div */
+.dates {
+  height: 900px;
+  margin-left: 120px;
+  background-color: white;
+}
+.row1 {
+  display: flex;
+}
+.date1 {
+  margin-top: 12px;
+  margin-left: 1px;
+  height: 120px;
+  width: 120px;
+  background-color: black;
+}
+.date2 {
+  margin-top: 12px;
+  margin-left: 1px;
+  height: 120px;
+  width: 120px;
+  background-color: black;
+}
+.date3 {
+  margin-top: 12px;
+  margin-left: 1px;
+  height: 120px;
+  width: 120px;
+  background-color: black;
+}
+.date4 {
+  margin-top: 12px;
+  margin-left: 1px;
+  height: 120px;
+  width: 120px;
+  background-color: black;
+}
+.date5 {
+  margin-top: 12px;
+  margin-left: 1px;
+  height: 120px;
+  width: 120px;
+  background-color: black;
+}
+.date6 {
+  margin-top: 12px;
+  margin-left: 1px;
+  height: 120px;
+  width: 120px;
+  background-color: black;
+}
+.date7 {
+  margin-top: 12px;
+  margin-left: 1px;
+  height: 120px;
+  width: 120px;
+  background-color: black;
+}
+.row2 {
+  margin-top: 12px;
+  display: flex;
+}
+.row3 {
+  margin-top: 12px;
+  display: flex;
+}
+.row4 {
+  margin-top: 12px;
+  display: flex;
+}
+.row5 {
+  margin-top: 12px;
+  display: flex;
+}
+
+.date8 {
+  background-color: black;
+}
+.date9 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date10 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date11 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date12 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date13 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date14 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date15 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date16 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date17 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date18 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date19 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date20 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date21 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date22 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date23 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date24 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date25 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date26 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date27 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date28 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date29 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date30 {
+  margin-left: 1px;
+  background-color: black;
+}
+.date31 {
+  margin-left: 1px;
+  background-color:black;
+}
+.date {
+  background-color: black(242, 234, 234);
+  margin-top: 12px;
+  height: 170px;
+  width: 150px;
+  color: rgb(240, 233, 233);
+}
